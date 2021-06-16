@@ -49,9 +49,6 @@ public class main {
 
 
 
-        //DataFrame
-        DataFrame<TitanicPassenger> df = new DataFrame<>("titanic.csv");
-
-        System.out.println(df);
+     
     }
 }
